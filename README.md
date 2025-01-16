@@ -13,3 +13,4 @@ Real-Time Updates: Immediate feedback and updates when tasks are modified.
 Dart: Backend logic and state management.
 Flutter: Cross-platform UI framework for building a responsive and beautiful app.
 Provider (Optional): For state management.
+![alt text](screenhot.png)
