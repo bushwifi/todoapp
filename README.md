@@ -1,5 +1,5 @@
 
-####📝 ###To-Do Manager - A Smart Task Management App
+To-Do Manager - A Smart Task Management App
 To-Do Manager is a feature-rich task management application built using Flutter. Designed with productivity and simplicity in mind, this app helps users effectively organize, track, and complete their daily tasks with ease.
 
 🚀 Features
